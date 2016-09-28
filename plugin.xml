@@ -65,7 +65,7 @@
 		</config-file>
 
         <framework src="push.gradle" custom="true" type="gradleReference" />
-        <framework src="com.android.support:support-v4:23.4.0" />
+        <framework src="com.android.support:support-v13:23+" />
         <framework src="me.leolin:ShortcutBadger:1.1.4@aar" />
         <framework src="com.google.firebase:firebase-messaging:9.4.0" />
 
